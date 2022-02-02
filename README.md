@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rickythewriter
-- 👀 I’m interested in jazz, kung fu, and Chinese literature
+- 🎵 I’m interested in music performance, kung fu, and Chinese literature
 - 🌱 I’m currently learning full-stack web development from App Academy
-- 💞️ I’m looking to collaborate on nothing atm.
-- 📫 How to reach me - N/A atm.
+- 📫 How to reach me - [LinkedIn](www.linkedin.com/in/ricky-thang-88307a100).
 
 <!---
 rickythewriter/rickythewriter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
