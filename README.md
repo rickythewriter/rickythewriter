@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rickythewriter
 - 🎵 I’m interested in music performance, kung fu, and Chinese literature
-- 🌱 I’m currently learning full-stack web development from App Academy
+- 🌱 I’m currently learning new full-stack web development technologies from App Academy
 - 📫 How to reach me - [LinkedIn](www.linkedin.com/in/ricky-thang-88307a100).
 
 <!---
