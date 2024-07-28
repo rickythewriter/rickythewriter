@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rickythewriter
-- 🎵 I’m interested in music performance, kung fu, and Chinese literature
-- 🌱 I’m currently looking for a job in software engineering
+- 🌱 I’m a solutions enginer / IT business consultant
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/ricky-thang-88307a100/).
 
 <!---
