@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rickythewriter
-- 🌱 I’m an IT business consultant / full-stack software engineer
+- 🌱 I’m a network technician
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/ricky-thang-88307a100/).
 
 <!---
