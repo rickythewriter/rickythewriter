@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rickythewriter
-- 🌱 I’m a network technician
+- 🌱 I’m an associate-level network engineer
 
 <!---
 rickythewriter/rickythewriter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
